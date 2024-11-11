@@ -6,4 +6,4 @@ sono nato, cresciuto, esisto (penso?)(cogito ergo sum)
 
 vivo nel buco del culo del mondo (cit. Franz)
 
-!(Waltuh)[W-W.jpg]
+![Walter](W-W.jpg)
